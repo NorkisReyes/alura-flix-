@@ -1,9 +1,9 @@
 /*varíaveis*/
 :root {
-  --preto: #000;
+  --preto: #180202;
   --branco: #fff;
-  --lilas-claro: #eb76db;
-  --azul-medio: #2f4dd1;
+  --lilas-claro: #5b59d1;
+  --azul-medio: #b05ef3;
 }
 /*corpo da página*/
 body {
